@@ -146,6 +146,9 @@ public class MainActivity extends Activity
 		traverseNewDataList(myBean.data, 0);
 	}
 
+
+
+
 	int i = 0;
 	private void traverseNewDataList(List<MyBean.ListBean> departmentList, int parentId) {
 		for (int j = 0; j < departmentList.size(); j++) {
