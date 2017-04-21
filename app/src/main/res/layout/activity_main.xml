@@ -1,0 +1,103 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="40dip"
+        android:paddingLeft="10dp">
+
+
+        <TextView
+            android:id="@+id/tv_customer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="我的客户"
+            android:textSize="18dip" />
+
+
+
+        <ImageView
+            android:id="@+id/iv_select_customer"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/selector_checkbox_order"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="40dip"
+        android:paddingLeft="10dp">
+
+
+        <TextView
+            android:id="@+id/tv_share_to_customer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="共享给我的客户"
+            android:textSize="18dip" />
+
+
+
+        <ImageView
+            android:id="@+id/iv_select_share"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/selector_checkbox_order"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="40dip"
+        android:paddingLeft="10dp">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="我下属的客户"
+            android:textSize="18dip" />
+
+
+
+        <ImageView
+            android:id="@+id/iv_sub_customer"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/selector_checkbox_order"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"/>
+
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/id_tree"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:divider="#aaa"
+        android:dividerHeight="1px" >
+    </ListView>
+
+</LinearLayout>
