@@ -5,12 +5,12 @@
   + 1-2  *数据结构示意图*<br>
 <img src="https://github.com/wangyubao/Demo_tree_view/blob/master/image/ED007043-15C2-4BC9-A2A5-AE14D14CC734.png" width="100"  /><br>
 2. 碰到的问题
-  1. 2-1 数据解析。数据的层级是动态的，每次返回的department下面具体还有几层架构是不固定的，且数据比较繁杂<br>
-  2. 2-2 数据适配listView
+  + 2-1 数据解析。数据的层级是动态的，每次返回的department下面具体还有几层架构是不固定的，且数据比较繁杂<br>
+  + 2-2 数据适配listView
 3. 解决问题
-  1. 2-1 *解决数据解析问题*<br>
+  + 3-1 *解决数据解析问题*<br>
 <img src="https://github.com/wangyubao/Demo_tree_view/blob/master/image/7A935034-80B0-4C68-B171-83A2575D964E.png" width="100" /><br>
-  2. 2-2 *递归算法解决适配问题*<br>
+  + 3-2 *递归算法解决适配问题*<br>
 <img src="https://github.com/wangyubao/Demo_tree_view/blob/master/image/336AD9C0-CEE8-46A5-9A83-E6B2688C4DB5.png" width="100" /><br>
 
 
