@@ -12,9 +12,9 @@
 ***
 3. 解决问题
    *解决数据解析问题*<br>
-<img src="https://github.com/wangyubao/Demo_tree_view/blob/master/image/7A935034-80B0-4C68-B171-83A2575D964E.png" width="350" /><br>
+<img src="https://github.com/wangyubao/Demo_tree_view/blob/master/image/7A935034-80B0-4C68-B171-83A2575D964E.png" width="600" /><br>
 ***
    *递归算法解决适配问题*<br>
-<img src="https://github.com/wangyubao/Demo_tree_view/blob/master/image/336AD9C0-CEE8-46A5-9A83-E6B2688C4DB5.png" width="350" /><br>
+<img src="https://github.com/wangyubao/Demo_tree_view/blob/master/image/336AD9C0-CEE8-46A5-9A83-E6B2688C4DB5.png" width="600" /><br>
 
 
