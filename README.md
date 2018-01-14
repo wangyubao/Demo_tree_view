@@ -4,7 +4,7 @@
 <img src="https://github.com/wangyubao/Demo_tree_view/blob/master/image/61514535455_.pic.jpg" width="250" /><br>
 ***
    *数据结构示意图*<br>
-<img src="https://github.com/wangyubao/Demo_tree_view/blob/master/image/ED007043-15C2-4BC9-A2A5-AE14D14CC734.png" width="350"  /><br>
+<img src="https://github.com/wangyubao/Demo_tree_view/blob/master/image/ED007043-15C2-4BC9-A2A5-AE14D14CC734.png" width="600"  /><br>
 ***
 2. 碰到的问题
    数据解析。数据的层级是动态的，每次返回的department下面具体还有几层架构是不固定的，且数据比较繁杂<br>
