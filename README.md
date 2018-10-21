@@ -1,4 +1,4 @@
-**鉴于在实际开发中，经常碰到这类问题，服务端返回的动态的多层级数据结构如何适配android的UI？本demo抽取了帮朋友公司做的一个类似PC端异构目录的功能，解决了比较复杂的动态的数据层级在手机UI中的展示，比较考验数据结构知识以及递归算法的灵活运用，本demo参考了鸿洋多级列表http://blog.csdn.net/lmj623565791/article/details/40212367**
+**鉴于在实际开发中，经常碰到这类问题，服务端返回的动态的多层级数据结构如何适配android的UI？本demo抽取了帮朋友公司做的一个类似PC端异构目录的功能，解决了比较复杂的动态的数据层级在手机UI中的展示，比较考验数据结构知识以及递归算法的灵活运用，本demo引用了鸿洋的一个多级列表http://blog.csdn.net/lmj623565791/article/details/40212367**
 1. 效果及数据结构示意图
    *效果图展示*<br>
 <img src="https://github.com/wangyubao/Demo_tree_view/blob/master/image/61514535455_.pic.jpg" width="250" /><br>
